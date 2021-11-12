@@ -1,4 +1,4 @@
-### Hi there 👋
+### Build and Release Lead at Cisco 👋
 
 <!--
 **bldmgr/bldmgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/bldmgr"><img src="https://api.daily.dev/devcards/e482dbf8909a44efa4fd6c635529770a.png?r=qie" width="200" alt="Micheal Montpetit's Dev Card"/>
+
+As modern cloud development changes the rules of the game for enterprises, the role of build/release engineers is also transforming into a central team like operations and platform teams. Some of the lines between development, operations, release engineering, and platform teams are rapidly blurring. Rather than focus on continuous integration and build tools alone, release engineers need to combine organizational and technical knowledge to effect change in their company's software delivery pipeline and processes. To accomplish that, release engineers need to connect where the business strategy is defined and integrate within feature development teams.
+</a>
